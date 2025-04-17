@@ -1,4 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-console.log(global);
+const __filename = import.meta.url;
+console.log(__filename);
+export {};
 //# sourceMappingURL=index.js.map
