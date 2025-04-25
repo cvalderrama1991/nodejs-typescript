@@ -1,4 +1,3 @@
-const __filename = import.meta.url;
-console.log(__filename);
+console.log('Hello World!');
 export {};
 //# sourceMappingURL=index.js.map
